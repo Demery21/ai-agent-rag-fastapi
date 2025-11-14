@@ -1,0 +1,3 @@
+This is a sample knowledge document.
+You can replace it with your own data.
+AI agents use context from vector search to answer questions.
