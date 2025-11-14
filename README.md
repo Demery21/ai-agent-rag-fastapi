@@ -34,7 +34,7 @@ Send a POST request:
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 ### RAG Pipeline
 - Documents are embedded with `sentence-transformers`
@@ -53,7 +53,7 @@ Send a POST request:
 
 ---
 
-## 📌 Notes
+## Notes
 This repo is designed to be **simple, readable, and interview-friendly**.
 You can extend it by:
 - Adding more documents
@@ -61,8 +61,5 @@ You can extend it by:
 - Adding memory
 - Deploying on cloud providers
 
----
 
-## 📄 License
-MIT License
 
